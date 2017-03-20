@@ -1,0 +1,23 @@
+{
+  "name": "phillip",
+  "version": "1.0.0",
+  "description": "My contact info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmojo/phillip.git"
+  },
+  "keywords": [
+    "phillip",
+    "info"
+  ],
+  "author": "Phillip Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsmojo/phillip/issues"
+  },
+  "homepage": "https://github.com/jsmojo/phillip#readme"
+}
