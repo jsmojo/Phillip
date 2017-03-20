@@ -1,6 +1,6 @@
 {
   "name": "phillip-info",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My contact info",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "keywords": [
     "phillip",
     "info",
-    "person", 
+    "person",
     "contact"
   ],
   "author": "Phillip Medina",
