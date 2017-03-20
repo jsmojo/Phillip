@@ -4,6 +4,8 @@
   "description": "My contact info",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "postinstall": "cat info.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,7 +14,9 @@
   },
   "keywords": [
     "phillip",
-    "info"
+    "info",
+    "person", 
+    "contact"
   ],
   "author": "Phillip Medina",
   "license": "ISC",
