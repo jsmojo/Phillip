@@ -1,6 +1,6 @@
 {
   "name": "phillip-info",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My contact info",
   "main": "index.js",
   "scripts": {
