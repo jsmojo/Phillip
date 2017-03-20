@@ -2,6 +2,9 @@ var fs = require('fs');
 
 console.log("\n My contact information is below. :) \n");
 
-var content = fs.readFileSync("info.json");
-
-console.log("" + content);
+fs.readFile('./info.json', 'utf8', function (err,data) {
+  if (err) {
+    return console.log(err);
+  }
+  console.log(data);
+});
