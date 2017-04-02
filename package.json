@@ -1,5 +1,5 @@
 {
-  "name": "phillip-info",
+  "name": "philliprc",
   "version": "1.0.7",
   "description": "My contact info",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsmojo/phillip-info.git"
+    "url": "git+https://github.com/jsmojo/philliprc.git"
   },
   "keywords": [
     "phillip",
@@ -21,7 +21,7 @@
   "author": "Phillip Medina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jsmojo/phillip-info/issues"
+    "url": "https://github.com/jsmojo/philliprc/issues"
   },
-  "homepage": "https://github.com/jsmojo/phillip-info#readme"
+  "homepage": "https://github.com/jsmojo/philliprc#readme"
 }
