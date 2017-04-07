@@ -1,4 +1,4 @@
-# phillip-info
+# philliprc
 
 ## Installing
 
