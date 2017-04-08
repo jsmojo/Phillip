@@ -3,6 +3,12 @@
     "website": "http://phillip.herokuapp.com",
     "email": "phillipcodes@gmail.com",
     "github": "jsmojo",
+<<<<<<< HEAD
     "linkedin": "https://www.linkedin.com/in/phillipmedina",
     "devpost": "phillipcodes"
+=======
+    "linkedin": "",
+    "devpost": "jsmojo",
+    "hackerrank": "phillipcodes"
+>>>>>>> 5b1b3e1c23202342f1a8605afd223b81be05e447
 }
