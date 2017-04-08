@@ -4,8 +4,9 @@
   "description": "My contact info",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "postinstall": "node index.js",
+    "runapp": "node index.js",
+    "start": "npm run runapp",
+    "postinstall": "npm run runapp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
